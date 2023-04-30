@@ -1,4 +1,4 @@
-### I don't have time to edit this file LMFAO 👋
+### I don't have time to edit this file LMFAO
 
 Discord: Arcadia#8714
 <!--
