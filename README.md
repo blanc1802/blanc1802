@@ -1,6 +1,6 @@
 ### I don't have time to edit this file LMFAO
 
-Discord: Arcadia#8714
+Discord: @_luminalia
 <!--
 **acefallarcuna/acefallarcuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
