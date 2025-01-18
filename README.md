@@ -16,8 +16,8 @@ currently studying at De La Salle University - Dasmariñas
 
 # GitHub Stats:
 <div style="display: flex; align-items: center; gap: 5px; flex-wrap: wrap; justify-content: center; text-align: center; width: 100%; margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=acefallarcuna&hide_title=true&theme=dark&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true" style="height: 190px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acefallarcuna&hide_title=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height: 190px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=acefallarcuna&hide_title=true&theme=dark&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true" style="height: 195px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acefallarcuna&hide_title=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height: 195px;"/>
 </div>
 
 ## 🏆 GitHub Trophies
