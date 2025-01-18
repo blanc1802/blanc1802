@@ -6,9 +6,15 @@ Currently studying at De La Salle University - Dasmariñas
 
 # Socials
 <div align="left">
-  <img href="https://discordapp.com/users/750263793728225301" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"/>
-  <img href="mailto:acefallarcuna.s@gmail.com" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"/>
-  <img href="https://www.linkedin.com/in/ezekiel-fallarcuna-a487232a8/" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
+  <a href="https://discordapp.com/users/750263793728225301">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=acefallarcuna.s@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ezekiel-fallarcuna-a487232a8/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
+  </a>
 </div>
 
 # Tech Stack
