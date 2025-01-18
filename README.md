@@ -1,8 +1,6 @@
 # C:\Users\Zeke> type README.md ▌
 ### Hello, World! I'm Zeke, a Full Stack Developer
-Currently working on my own [webpage](https://google.com) (WIP)
-<br>
-Currently studying at De La Salle University - Dasmariñas
+I am a **BSIT** undergraduate at **De La Salle University - Dasmariñas**. 
 
 # Socials
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discordapp.com/users/750263793728225301)
