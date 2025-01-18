@@ -15,8 +15,8 @@ I am a **BSIT** undergraduate at **De La Salle University - Dasmariñas**.
   <img src="https://github-readme-stats.vercel.app/api?username=acefallarcuna&hide_title=true&theme=dark&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true" style="height: 195px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acefallarcuna&hide_title=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height: 195px;"/>
 </div>
+<br>
 
-# GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=acefallarcuna&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Snake -->
