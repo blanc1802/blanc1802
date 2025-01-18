@@ -2,7 +2,7 @@
 ### Hello, World! I'm Zeke, a Full Stack Developer
 Currently working on my own [webpage](https://google.com) (WIP)
 <br>
-Currently studying at <span style="color:lightgreen;">De La Salle University - Dasmariñas</span>
+Currently studying at De La Salle University - Dasmariñas
 
 # Socials
 <div align="left">
