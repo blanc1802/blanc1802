@@ -1,8 +1,8 @@
 # C:\Users\Zeke> type README.md ▌
 ### Hello, World! I'm Zeke, a Full Stack Developer
-Currently working on my own [webpage](https://google.com)
+Currently working on my own [webpage](https://google.com) (WIP)
 <br>
-Currently studying at De La Salle University - Dasmariñas
+Currently studying at <span style="color:lightgreen;">De La Salle University - Dasmariñas</span>
 
 # Socials
 <div align="left">
