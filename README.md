@@ -1,6 +1,5 @@
 # C:\Users\Zeke> type README.md ▌
 ### Hello, World! I'm Zeke, a Full Stack Developer
-I am a **BSIT** undergraduate at **De La Salle University - Dasmariñas**.
 
 ### Hackathon Finalist with CodeBrew
 [Hackfest 2023: Reconnect](https://www.facebook.com/gdscloyola/videos/160154290330241) <br>
