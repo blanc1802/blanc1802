@@ -2,8 +2,8 @@
 ### Hello, World! I'm Zeke, a Full Stack Developer
 
 ### Hackathon Finalist with CodeBrew
-[Hackfest 2023: Reconnect](https://www.facebook.com/gdscloyola/videos/160154290330241) <br>
-[Hackfest 2024: Fusion](https://www.facebook.com/gdscloyola/posts/pfbid036e2tEXEhCEGWhQJv9Pby4MZRfzUikLg1ZmuRyd5b1efSVfjZqj8zb6WYot6uYCmil) <br>
+[HackFest 2023: Reconnect](https://www.facebook.com/gdscloyola/videos/160154290330241) <br>
+[HackFest 2024: Fusion](https://www.facebook.com/gdscloyola/posts/pfbid036e2tEXEhCEGWhQJv9Pby4MZRfzUikLg1ZmuRyd5b1efSVfjZqj8zb6WYot6uYCmil) <br>
 [InnOlympics 2024: GDSC-PLM Hackathon](https://www.facebook.com/gdsc.haribon/posts/pfbid02o8VHXuxSHTKhAXNjWZqfSkXPF1zfNCeVC5da71Zxwt3kHUJRohU2sBSFrVTwZbEBl)
 
 # Socials
